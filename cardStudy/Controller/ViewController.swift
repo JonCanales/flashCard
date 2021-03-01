@@ -43,7 +43,7 @@ class ViewController: UIViewController {
         }
         
         if button.currentTitle == "Swift"{
-            button.setTitle("Apple Langugae", for: UIControl.State.normal)
+            button.setTitle("Apple Langauge", for: UIControl.State.normal)
             button.backgroundColor = #colorLiteral(red: 0.2392156869, green: 0.6745098233, blue: 0.9686274529, alpha: 1)
         }
         

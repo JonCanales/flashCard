@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  cardStudy
+//  design
 //
-//  Created by Jonathan Canales on 2/25/21.
+//  Created by Jonathan Canales on 1/21/21.
 //
 
 import UIKit
